@@ -95,7 +95,7 @@ Cada localização possui redes locais próprias, permitindo representar uma sit
 As redes locais foram segmentadas através de VLANs, enquanto os routers foram responsáveis pelo encaminhamento do tráfego entre as diferentes redes.
 
 <p align="center">
-  <img src="imagens/topologia.png" alt="Topologia da matriz e filial" width="1000">
+  <img src="labs/pro5.png" alt="Topologia da matriz e filial" width="1000">
 </p>
 
 ### Categoria 2: VLANs
